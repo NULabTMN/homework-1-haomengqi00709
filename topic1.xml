@@ -126,9 +126,9 @@ iplgK' a
 SPORTS
 GRAPHIC</text>
       </result>
-    </results>
+      <result>
     <id></id>
-    <results>
+      </result>
       <result>
 	<id>https://www.loc.gov/resource/sn84021918/1962-01-26/ed-1/?sp=7&q=arthur+ashe&st=text&r=-0.362,-0.086,1.724,1.724,0</id>
 	<rel>1</rel>
@@ -155,8 +155,7 @@ derbird tourney.</text>
 Association won the seventh Annual Southern California Singles
 Championships a few Sundays ago.</text>
       </result>
-    </results>
-
+      <result>
 	<id>https://www.loc.gov/resource/sn83045462/1963-08-02/ed-1/?sp=39&q=arthur+ashe&st=text&r=-0.377,-0.102,1.753,1.781,0</id>
 	<rel>1</rel>
 	<text>Selection to Davis Cup Team
@@ -502,7 +501,7 @@ Ashe is a virtual demon. That
 factor, too, must have weighed
 heavily in Arthur’s favor.</text>
       </result>
-    </results>
+      <result>
 	<id>https://www.loc.gov/resource/sn92063852/1963-07-06/ed-1/?sp=7&q=arthur+ashe+tennis</id>
 	<rel>1</rel>
 	<text>First Male At Wimbledoir, UClA's
@@ -535,7 +534,7 @@ Wimbledon) in the United States
 “Let him come, if p ay wclLj
 I’m capable or heating anvhodv
 Ashe said. "If I lose, well I’m	</text>
-    <results>
+      </result>
       <result>
 	<id>https://www.loc.gov/resource/sn83016804/1963-10-10/ed-1/?sp=8&q=arthur+ashe+tournament</id>
 	<rel>1</rel>
@@ -575,6 +574,31 @@ ranked Whitney Reed, 2-6, 9-7, 6-2,
 to win the men’s singles champ
 ionship in the Pacific Southwest
 net tournament.</text>
+      </result>
+      <result>
+	<id>https://www.loc.gov/resource/sn84027490/1882-02-11/ed-1/?sp=1&q=John+Sullivan+pugilist+boxer+boxing&st=text&r=-0.249,-0.075,1.497,1.497,0</id>
+	<rel>0</rel>
+	<text></text>
+      </result>
+      <result>
+	<id>https://www.loc.gov/resource/sn90059522/1886-11-14/ed-1/?sp=1&q=John+Sullivan+pugilist+boxer+boxing&st=text&r=-0.329,-0.083,1.658,1.658,0</id>
+	<rel>0</rel>
+	<text></text>
+      </result>
+      <result>
+	<id>https://www.loc.gov/resource/sn83045462/1895-11-26/ed-1/?sp=10&q=Basket+Ball+Basketball+Play+Games+Game+Foot+Sport&st=text&r=-0.249,-0.075,1.499,1.499,0</id>
+	<rel>0</rel>
+	<text></text>
+      </result>
+      <result>
+	<id>https://www.loc.gov/resource/sn87060190/1904-11-01/ed-1/?sp=1&q=glenn+curtiss+arrow+baldwin+machine+june+bug+aerial+assocation+triad+porte+flying+boat</id>
+	<rel>0</rel>
+	<text></text>
+      </result>
+      <result>
+	<id>https://www.loc.gov/resource/sn83030214/1908-06-03/ed-1/?sp=5&q=glenn+curtiss+arrow+baldwin+machine+june+bug+aerial+assocation+triad+porte+flying+boat</id>
+	<rel>0</rel>
+	<text></text>
       </result>
     </results>
   </topic>
